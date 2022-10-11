@@ -7,7 +7,7 @@ the following command in your terminal: `mvn -v`
 If you don't have the version output printed in your 
 terminal, then you need to install apache-maven following
 the instructions in the following link:
-`https://maven.apache.org/install.htmlhttps://maven.apache.org/install.html`
+`https://maven.apache.org/download.cgi`
 
 <h1>Setup</h1>
 
