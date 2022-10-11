@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.coindesk</groupId>
-    <artifactId>Embed_Task1_UI_Nikolas_Tonic</artifactId>
+    <artifactId>Embed_Task3_API_Nikolas_Tonic</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

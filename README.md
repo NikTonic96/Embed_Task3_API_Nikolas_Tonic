@@ -16,12 +16,12 @@ the instructions in the following link:
 First you have to clone the project on your local machine by entering
 the following commands in your terminal:
 
-`git clone git@github.com:NikTonic96/Embed_Task1_UI_Nikolas_Tonic.git`
+`git clone git@github.com:NikTonic96/Embed_Task3_API_Nikolas_Tonic.git`
 </li>
 <li>
 Navigate into the project folder with: 
 
-`cd /Users/nikolastonic/Desktop/Embed_Task_Nikolas_Tonic/Embed_Task3_API_Nikolas_Tonic`
+`cd Embed_Task3_API_Nikolas_Tonic`
 </li>
 </ul>
 
@@ -32,5 +32,9 @@ Navigate into the project folder with:
 Run the test with the: 
 
 `mvn test`
+
+To test and see the listed results please open the project in Intellij
+and run the test from the src/test/java/com/coindesk/apiTest/BitcoinPriceRequest.java
+class and the code will generate the listed outputs. 
 </li>
 </ul>
