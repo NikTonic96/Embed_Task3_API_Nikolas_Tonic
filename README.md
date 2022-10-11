@@ -35,6 +35,7 @@ Run the test with the:
 
 To test and see the listed results please open the project in Intellij
 and run the test from the src/test/java/com/coindesk/apiTest/BitcoinPriceRequest.java
-class and the code will generate the listed outputs. 
+class and the code will generate the listed outputs. To do so you have to click the green
+arrow and click run. 
 </li>
 </ul>
